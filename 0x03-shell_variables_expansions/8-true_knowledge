@@ -1,0 +1,4 @@
+#!/bin/bash
+value=$TRUEKNOWLEDGE
+result=$((1209 + 128))
+echo $result
